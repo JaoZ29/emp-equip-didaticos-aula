@@ -1,5 +1,5 @@
 import 'dotenv/config';
-import { DatabaseModel } from './model/DataBaseModel.js';
+import { DatabaseModel } from "./model/DataBaseModel.js";
 import { server } from "./server.js";
 
 // Pega porta com segurança: Render -> SERVER_PORT -> 3000
